@@ -1,0 +1,5 @@
+fpga/build/output_files/*
+fpga/build/db/*
+fpga/build/incremental_db/*
+fpga/build/simulation/*
+fpga/build/flashprog_assignment_defaults.qdf
